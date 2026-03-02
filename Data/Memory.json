@@ -1,0 +1,467 @@
+{
+  "conversation": [
+    {
+      "role": "user",
+      "content": "open chrome",
+      "timestamp": "2026-02-27T13:21:25.683632"
+    },
+    {
+      "role": "assistant",
+      "content": "Done. Open Chrome browser.",
+      "timestamp": "2026-02-27T13:21:30.640044"
+    },
+    {
+      "role": "user",
+      "content": "Open chrome.",
+      "timestamp": "2026-02-27T13:22:21.956030"
+    },
+    {
+      "role": "assistant",
+      "content": "Done. Open Chrome browser.",
+      "timestamp": "2026-02-27T13:22:22.877922"
+    },
+    {
+      "role": "user",
+      "content": "open task manager",
+      "timestamp": "2026-02-27T13:22:33.167278"
+    },
+    {
+      "role": "assistant",
+      "content": "Done. Open Task Manager.",
+      "timestamp": "2026-02-27T13:22:34.051860"
+    },
+    {
+      "role": "user",
+      "content": "open antigravity",
+      "timestamp": "2026-02-27T13:24:41.804092"
+    },
+    {
+      "role": "assistant",
+      "content": "It seems unlikely that you would find a real-world application called 'antigravity' since antigravity is a fictional concept. However, you might be looking for a specific software or tool. Could you be referring to a game called \"Antigravity\" or perhaps a software with a similar name?",
+      "timestamp": "2026-02-27T13:24:43.087028"
+    },
+    {
+      "role": "user",
+      "content": "open cmd and type antigravity",
+      "timestamp": "2026-02-27T13:25:11.699576"
+    },
+    {
+      "role": "assistant",
+      "content": "Done. Open Command Prompt, Type 'antigravity' in Command Prompt.",
+      "timestamp": "2026-02-27T13:25:15.202411"
+    },
+    {
+      "role": "user",
+      "content": "open cmd then write antigravity and press enter",
+      "timestamp": "2026-02-27T13:26:01.423501"
+    },
+    {
+      "role": "assistant",
+      "content": "Done. Open Command Prompt, Type 'antigravity' in Command Prompt, Press Enter in Command Prompt.",
+      "timestamp": "2026-02-27T13:26:04.883974"
+    },
+    {
+      "role": "user",
+      "content": "hi",
+      "timestamp": "2026-03-02T16:43:37.126088"
+    },
+    {
+      "role": "assistant",
+      "content": "Hello Sanal. Is there anything else I can help you with?",
+      "timestamp": "2026-03-02T16:43:38.424544"
+    },
+    {
+      "role": "user",
+      "content": "open chrome",
+      "timestamp": "2026-03-02T16:43:49.492580"
+    },
+    {
+      "role": "assistant",
+      "content": "Done. Open Chrome browser.",
+      "timestamp": "2026-03-02T16:43:50.573193"
+    },
+    {
+      "role": "user",
+      "content": "hi",
+      "timestamp": "2026-03-02T16:46:08.809096"
+    },
+    {
+      "role": "assistant",
+      "content": "Hello Sanal. What's on your mind?",
+      "timestamp": "2026-03-02T16:46:09.677487"
+    },
+    {
+      "role": "user",
+      "content": "open chrome",
+      "timestamp": "2026-03-02T16:46:19.999758"
+    },
+    {
+      "role": "assistant",
+      "content": "Done. Open Chrome browser.",
+      "timestamp": "2026-03-02T16:46:20.872474"
+    },
+    {
+      "role": "user",
+      "content": "open chrome and search pranav",
+      "timestamp": "2026-03-02T16:46:40.713830"
+    },
+    {
+      "role": "assistant",
+      "content": "Done. Open Chrome browser, Navigate to Google, Type search query, Press Enter to search.",
+      "timestamp": "2026-03-02T16:46:45.469087"
+    },
+    {
+      "role": "user",
+      "content": "open filemanager",
+      "timestamp": "2026-03-02T16:47:07.828208"
+    },
+    {
+      "role": "assistant",
+      "content": "Done. Open File Manager.",
+      "timestamp": "2026-03-02T16:47:08.857275"
+    },
+    {
+      "role": "user",
+      "content": "open antigravity",
+      "timestamp": "2026-03-02T16:47:20.791623"
+    },
+    {
+      "role": "assistant",
+      "content": "Done. Open Antigravity application.",
+      "timestamp": "2026-03-02T16:47:21.819110"
+    },
+    {
+      "role": "user",
+      "content": "scan my window",
+      "timestamp": "2026-03-02T16:47:37.267415"
+    },
+    {
+      "role": "assistant",
+      "content": "Done. Take screenshot of current window.",
+      "timestamp": "2026-03-02T16:47:45.096142"
+    },
+    {
+      "role": "user",
+      "content": "open sap eclipse from my window",
+      "timestamp": "2026-03-02T16:48:29.441057"
+    },
+    {
+      "role": "assistant",
+      "content": "Done. Open SAP Eclipse, Focus SAP Eclipse window.",
+      "timestamp": "2026-03-02T16:48:30.705710"
+    }
+  ],
+  "session_state": {
+    "current_app": "SAP Eclipse",
+    "last_app": "sap eclipse",
+    "last_query": "open sap eclipse from my window",
+    "last_file": null,
+    "last_url": "https://www.google.com",
+    "last_folder": null,
+    "tasks_executed": 44,
+    "errors_encountered": 0,
+    "session_start": "2026-03-02T16:43:05.201404"
+  },
+  "recent_events": [
+    {
+      "type": "task_executed",
+      "detail": "Focus Command Prompt",
+      "metadata": {},
+      "timestamp": "2026-02-25T19:03:58.224814"
+    },
+    {
+      "type": "task_executed",
+      "detail": "Type 'kilo' in Command Prompt",
+      "metadata": {},
+      "timestamp": "2026-02-25T19:03:58.560269"
+    },
+    {
+      "type": "app_opened",
+      "detail": "chrome",
+      "metadata": {},
+      "timestamp": "2026-02-25T19:05:17.448880"
+    },
+    {
+      "type": "task_executed",
+      "detail": "Open Chrome",
+      "metadata": {},
+      "timestamp": "2026-02-25T19:05:17.449475"
+    },
+    {
+      "type": "task_executed",
+      "detail": "Wait for Chrome to load",
+      "metadata": {},
+      "timestamp": "2026-02-25T19:05:19.450926"
+    },
+    {
+      "type": "url_opened",
+      "detail": "https://www.google.com",
+      "metadata": {},
+      "timestamp": "2026-02-25T19:05:19.501635"
+    },
+    {
+      "type": "task_executed",
+      "detail": "Navigate to Google",
+      "metadata": {},
+      "timestamp": "2026-02-25T19:05:19.502278"
+    },
+    {
+      "type": "task_executed",
+      "detail": "Wait for page load",
+      "metadata": {},
+      "timestamp": "2026-02-25T19:05:20.518209"
+    },
+    {
+      "type": "task_executed",
+      "detail": "Type search query",
+      "metadata": {},
+      "timestamp": "2026-02-25T19:05:20.844200"
+    },
+    {
+      "type": "task_executed",
+      "detail": "Press Enter to search",
+      "metadata": {},
+      "timestamp": "2026-02-25T19:05:20.948305"
+    },
+    {
+      "type": "task_executed",
+      "detail": "Type text to write about laptops",
+      "metadata": {},
+      "timestamp": "2026-02-25T19:05:21.239854"
+    },
+    {
+      "type": "app_opened",
+      "detail": "chrome",
+      "metadata": {},
+      "timestamp": "2026-02-27T13:21:30.623708"
+    },
+    {
+      "type": "task_executed",
+      "detail": "Open Chrome browser",
+      "metadata": {},
+      "timestamp": "2026-02-27T13:21:30.624713"
+    },
+    {
+      "type": "app_opened",
+      "detail": "chrome",
+      "metadata": {},
+      "timestamp": "2026-02-27T13:22:22.874947"
+    },
+    {
+      "type": "task_executed",
+      "detail": "Open Chrome browser",
+      "metadata": {},
+      "timestamp": "2026-02-27T13:22:22.875661"
+    },
+    {
+      "type": "app_opened",
+      "detail": "task manager",
+      "metadata": {},
+      "timestamp": "2026-02-27T13:22:34.048688"
+    },
+    {
+      "type": "task_executed",
+      "detail": "Open Task Manager",
+      "metadata": {},
+      "timestamp": "2026-02-27T13:22:34.049308"
+    },
+    {
+      "type": "task_executed",
+      "detail": "Respond to unknown application",
+      "metadata": {},
+      "timestamp": "2026-02-27T13:24:43.084693"
+    },
+    {
+      "type": "app_opened",
+      "detail": "cmd",
+      "metadata": {},
+      "timestamp": "2026-02-27T13:25:12.859755"
+    },
+    {
+      "type": "task_executed",
+      "detail": "Open Command Prompt",
+      "metadata": {},
+      "timestamp": "2026-02-27T13:25:12.860432"
+    },
+    {
+      "type": "task_executed",
+      "detail": "Wait for Command Prompt to load",
+      "metadata": {},
+      "timestamp": "2026-02-27T13:25:14.862163"
+    },
+    {
+      "type": "task_executed",
+      "detail": "Type 'antigravity' in Command Prompt",
+      "metadata": {},
+      "timestamp": "2026-02-27T13:25:15.199690"
+    },
+    {
+      "type": "app_opened",
+      "detail": "cmd",
+      "metadata": {},
+      "timestamp": "2026-02-27T13:26:02.448766"
+    },
+    {
+      "type": "task_executed",
+      "detail": "Open Command Prompt",
+      "metadata": {},
+      "timestamp": "2026-02-27T13:26:02.449714"
+    },
+    {
+      "type": "task_executed",
+      "detail": "Wait for Command Prompt to load",
+      "metadata": {},
+      "timestamp": "2026-02-27T13:26:04.452320"
+    },
+    {
+      "type": "task_executed",
+      "detail": "Type 'antigravity' in Command Prompt",
+      "metadata": {},
+      "timestamp": "2026-02-27T13:26:04.772529"
+    },
+    {
+      "type": "task_executed",
+      "detail": "Press Enter in Command Prompt",
+      "metadata": {},
+      "timestamp": "2026-02-27T13:26:04.880840"
+    },
+    {
+      "type": "task_executed",
+      "detail": "Respond conversationally",
+      "metadata": {},
+      "timestamp": "2026-03-02T16:43:38.420811"
+    },
+    {
+      "type": "app_opened",
+      "detail": "chrome",
+      "metadata": {},
+      "timestamp": "2026-03-02T16:43:50.570265"
+    },
+    {
+      "type": "task_executed",
+      "detail": "Open Chrome browser",
+      "metadata": {},
+      "timestamp": "2026-03-02T16:43:50.571053"
+    },
+    {
+      "type": "task_executed",
+      "detail": "Respond conversationally",
+      "metadata": {},
+      "timestamp": "2026-03-02T16:46:09.673680"
+    },
+    {
+      "type": "app_opened",
+      "detail": "chrome",
+      "metadata": {},
+      "timestamp": "2026-03-02T16:46:20.869118"
+    },
+    {
+      "type": "task_executed",
+      "detail": "Open Chrome browser",
+      "metadata": {},
+      "timestamp": "2026-03-02T16:46:20.869910"
+    },
+    {
+      "type": "app_opened",
+      "detail": "chrome",
+      "metadata": {},
+      "timestamp": "2026-03-02T16:46:41.874237"
+    },
+    {
+      "type": "task_executed",
+      "detail": "Open Chrome browser",
+      "metadata": {},
+      "timestamp": "2026-03-02T16:46:41.875552"
+    },
+    {
+      "type": "task_executed",
+      "detail": "Wait for Chrome to load",
+      "metadata": {},
+      "timestamp": "2026-03-02T16:46:43.878329"
+    },
+    {
+      "type": "url_opened",
+      "detail": "https://www.google.com",
+      "metadata": {},
+      "timestamp": "2026-03-02T16:46:44.044484"
+    },
+    {
+      "type": "task_executed",
+      "detail": "Navigate to Google",
+      "metadata": {},
+      "timestamp": "2026-03-02T16:46:44.045531"
+    },
+    {
+      "type": "task_executed",
+      "detail": "Wait for page load",
+      "metadata": {},
+      "timestamp": "2026-03-02T16:46:45.048073"
+    },
+    {
+      "type": "task_executed",
+      "detail": "Type search query",
+      "metadata": {},
+      "timestamp": "2026-03-02T16:46:45.353312"
+    },
+    {
+      "type": "task_executed",
+      "detail": "Press Enter to search",
+      "metadata": {},
+      "timestamp": "2026-03-02T16:46:45.464665"
+    },
+    {
+      "type": "app_opened",
+      "detail": "filemanager",
+      "metadata": {},
+      "timestamp": "2026-03-02T16:47:08.854091"
+    },
+    {
+      "type": "task_executed",
+      "detail": "Open File Manager",
+      "metadata": {},
+      "timestamp": "2026-03-02T16:47:08.855062"
+    },
+    {
+      "type": "app_opened",
+      "detail": "antigravity",
+      "metadata": {},
+      "timestamp": "2026-03-02T16:47:21.815527"
+    },
+    {
+      "type": "task_executed",
+      "detail": "Open Antigravity application",
+      "metadata": {},
+      "timestamp": "2026-03-02T16:47:21.816379"
+    },
+    {
+      "type": "task_executed",
+      "detail": "Take screenshot of current window",
+      "metadata": {},
+      "timestamp": "2026-03-02T16:47:45.091793"
+    },
+    {
+      "type": "app_opened",
+      "detail": "sap eclipse",
+      "metadata": {},
+      "timestamp": "2026-03-02T16:48:30.475941"
+    },
+    {
+      "type": "task_executed",
+      "detail": "Open SAP Eclipse",
+      "metadata": {},
+      "timestamp": "2026-03-02T16:48:30.476864"
+    },
+    {
+      "type": "app_opened",
+      "detail": "SAP Eclipse",
+      "metadata": {},
+      "timestamp": "2026-03-02T16:48:30.700300"
+    },
+    {
+      "type": "task_executed",
+      "detail": "Focus SAP Eclipse window",
+      "metadata": {},
+      "timestamp": "2026-03-02T16:48:30.701777"
+    }
+  ]
+}

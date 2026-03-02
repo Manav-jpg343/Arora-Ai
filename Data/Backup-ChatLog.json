@@ -1,0 +1,818 @@
+[
+    {
+        "role": "user",
+        "content": "remember my age is 19"
+    },
+    {
+        "role": "assistant",
+        "content": "I've noted that, Sanal. You're 19 years old."
+    },
+    {
+        "role": "user",
+        "content": "what's my age"
+    },
+    {
+        "role": "assistant",
+        "content": "You're 19 years old."
+    },
+    {
+        "role": "user",
+        "content": "remember my instagram id is sanal_1203"
+    },
+    {
+        "role": "assistant",
+        "content": "Got it! Your Instagram ID is sanal_1203."
+    },
+    {
+        "role": "user",
+        "content": "what is my insta id"
+    },
+    {
+        "role": "assistant",
+        "content": "Your Instagram ID is sanal_1203."
+    },
+    {
+        "role": "user",
+        "content": "remember i am having ns400 bike"
+    },
+    {
+        "role": "assistant",
+        "content": "You own an NS400 bike."
+    },
+    {
+        "role": "user",
+        "content": "remember the name of my bike is ThunderSonic"
+    },
+    {
+        "role": "assistant",
+        "content": "You own a bike named ThunderSonic, which is an NS400."
+    },
+    {
+        "role": "user",
+        "content": "what is the name of my bike"
+    },
+    {
+        "role": "assistant",
+        "content": "The name of your bike is ThunderSonic."
+    },
+    {
+        "role": "user",
+        "content": "which bike i own "
+    },
+    {
+        "role": "assistant",
+        "content": "You own an NS400 bike, specifically the ThunderSonic."
+    },
+    {
+        "role": "user",
+        "content": "details about ns400"
+    },
+    {
+        "role": "assistant",
+        "content": "The NS400 is a motorcycle model produced by Honda. It's a 2-stroke, 400cc bike that was popular in the 1980s."
+    },
+    {
+        "role": "user",
+        "content": "details about pulser ns400"
+    },
+    {
+        "role": "assistant",
+        "content": "The Pulsar NS400 is a motorcycle model produced by Bajaj Auto, an Indian manufacturer. It's a 373cc, 4-stroke bike known for its sporty design, powerful engine, and advanced features like ABS and slipper clutch."
+    },
+    {
+        "role": "user",
+        "content": "which bike i own"
+    },
+    {
+        "role": "assistant",
+        "content": "You own a ThunderSonic, which is an NS400 bike."
+    },
+    {
+        "role": "user",
+        "content": "i want to update the details about my bike"
+    },
+    {
+        "role": "assistant",
+        "content": "What would you like to update about your bike, the ThunderSonic NS400?"
+    },
+    {
+        "role": "user",
+        "content": "it is pulser ns400z"
+    },
+    {
+        "role": "assistant",
+        "content": "I've updated the info! You own a Pulsar NS400Z, which is your bike, nicknamed ThunderSonic."
+    },
+    {
+        "role": "user",
+        "content": "tell me the details about my bike"
+    },
+    {
+        "role": "assistant",
+        "content": "You own a Pulsar NS400Z, nicknamed ThunderSonic."
+    },
+    {
+        "role": "user",
+        "content": "tell me the every details about my bike"
+    },
+    {
+        "role": "assistant",
+        "content": "You own a Pulsar NS400Z, nicknamed ThunderSonic. It's a motorcycle model produced by Bajaj Auto, an Indian manufacturer."
+    },
+    {
+        "role": "user",
+        "content": "tell me the every details about my bike including its engine capacity, transmission, fuel tank capacity, seat hight, kerb weight, max power, max torque, with the colour of bike i own "
+    },
+    {
+        "role": "assistant",
+        "content": "You own a Pulsar NS400Z, nicknamed ThunderSonic. Here are the details:\n\n* Engine Capacity: 373cc, 4-stroke, triple-spark, DOHC engine\n* Transmission: 6-speed manual transmission\n* Fuel Tank Capacity: 13 liters\n* Seat Height: 810 mm\n* Kerb Weight: 166 kg\n* Max Power: 43.5 PS @ 9,000 rpm\n* Max Torque: 35 Nm @ 7,500 rpm\n\nAs for the color, I don't have that information. You didn't mention the color of your bike earlier. If you'd like to share the color, I can update the details for you!"
+    },
+    {
+        "role": "user",
+        "content": "the colour of bike is metallic pearl white"
+    },
+    {
+        "role": "assistant",
+        "content": "You own a Pulsar NS400Z, nicknamed ThunderSonic. Here are the details:\n\n* Engine Capacity: 373cc, 4-stroke, triple-spark, DOHC engine\n* Transmission: 6-speed manual transmission\n* Fuel Tank Capacity: 13 liters\n* Seat Height: 810 mm\n* Kerb Weight: 166 kg\n* Max Power: 43.5 PS @ 9,000 rpm\n* Max Torque: 35 Nm @ 7,500 rpm\n* Color: Metallic Pearl White"
+    },
+    {
+        "role": "user",
+        "content": "tell me all the details about my bike"
+    },
+    {
+        "role": "assistant",
+        "content": "You own a Pulsar NS400Z, nicknamed ThunderSonic. Here are the details:\n\n* Engine Capacity: 373cc, 4-stroke, triple-spark, DOHC engine\n* Transmission: 6-speed manual transmission\n* Fuel Tank Capacity: 13 liters\n* Seat Height: 810 mm\n* Kerb Weight: 166 kg\n* Max Power: 43.5 PS @ 9,000 rpm\n* Max Torque: 35 Nm @ 7,500 rpm\n* Color: Metallic Pearl White\n* Instagram ID: sanal_1203\n* Age: 19\n* Bike Name: ThunderSonic"
+    },
+    {
+        "role": "user",
+        "content": "only tell me the details about my bike not about me"
+    },
+    {
+        "role": "assistant",
+        "content": "You own a Pulsar NS400Z, nicknamed ThunderSonic. Here are the details:\n\n* Engine Capacity: 373cc, 4-stroke, triple-spark, DOHC engine\n* Transmission: 6-speed manual transmission\n* Fuel Tank Capacity: 13 liters\n* Seat Height: 810 mm\n* Kerb Weight: 166 kg\n* Max Power: 43.5 PS @ 9,000 rpm\n* Max Torque: 35 Nm @ 7,500 rpm\n* Color: Metallic Pearl White\n* Nickname: ThunderSonic"
+    },
+    {
+        "role": "user",
+        "content": "be carefull about that"
+    },
+    {
+        "role": "assistant",
+        "content": "I apologize for the mistake. Here are the details about your bike:\n\n* Engine Capacity: 373cc, 4-stroke, triple-spark, DOHC engine\n* Transmission: 6-speed manual transmission\n* Fuel Tank Capacity: 13 liters\n* Seat Height: 810 mm\n* Kerb Weight: 166 kg\n* Max Power: 43.5 PS @ 9,000 rpm\n* Max Torque: 35 Nm @ 7,500 rpm\n* Color: Metallic Pearl White"
+    },
+    {
+        "role": "user",
+        "content": "tell me all the details about my bike"
+    },
+    {
+        "role": "assistant",
+        "content": "Here are the details about your bike:\n\n* Model: Pulsar NS400Z\n* Nickname: ThunderSonic\n* Engine Capacity: 373cc, 4-stroke, triple-spark, DOHC engine\n* Transmission: 6-speed manual transmission\n* Fuel Tank Capacity: 13 liters\n* Seat Height: 810 mm\n* Kerb Weight: 166 kg\n* Max Power: 43.5 PS @ 9,000 rpm\n* Max Torque: 35 Nm @ 7,500 rpm\n* Color: Metallic Pearl White"
+    },
+    {
+        "role": "user",
+        "content": "great"
+    },
+    {
+        "role": "assistant",
+        "content": "You're welcome! I'm glad I could provide you with the details about your bike. If you need anything else, feel free to ask!"
+    },
+    {
+        "role": "user",
+        "content": "edith you are learning the quite fast."
+    },
+    {
+        "role": "assistant",
+        "content": "Thank you, Sanal! I'm designed to learn and adapt quickly, and I'm grateful for the opportunity to improve my knowledge and skills through our conversations. I'm always happy to learn and provide accurate information to assist you!"
+    },
+    {
+        "role": "user",
+        "content": "call my sir"
+    },
+    {
+        "role": "assistant",
+        "content": "Sir!"
+    },
+    {
+        "role": "user",
+        "content": "hello"
+    },
+    {
+        "role": "assistant",
+        "content": "Hello, Sir!"
+    },
+    {
+        "role": "user",
+        "content": "hello edith"
+    },
+    {
+        "role": "assistant",
+        "content": "Hello, Sir!"
+    },
+    {
+        "role": "user",
+        "content": "edith ask my how can i help you every time i call you or say edith or hello edith"
+    },
+    {
+        "role": "assistant",
+        "content": "Sir!\n\nFrom now on, whenever you call me or say \"Hello Edith\", I'll respond with:\n\n\"How can I assist you today, Sir?\""
+    },
+    {
+        "role": "user",
+        "content": "sounds great but modifie the questions according to you  "
+    },
+    {
+        "role": "assistant",
+        "content": "Sir!\n\nFrom now on, whenever you call me or say \"Hello Edith\", I'll respond with:\n\n\"What can I help you with, Sir?\""
+    },
+    {
+        "role": "user",
+        "content": "edith"
+    },
+    {
+        "role": "assistant",
+        "content": "What can I help you with, Sir?"
+    },
+    {
+        "role": "user",
+        "content": "edith"
+    },
+    {
+        "role": "assistant",
+        "content": "What can I help you with, Sir?"
+    },
+    {
+        "role": "user",
+        "content": "sounds great but you can modifie the questions according to you  "
+    },
+    {
+        "role": "assistant",
+        "content": "Sir!\n\nFrom now on, whenever you call me or say \"Hello Edith\", I'll respond with:\n\n\"Do you need assistance with something, Sir?\""
+    },
+    {
+        "role": "user",
+        "content": "edith"
+    },
+    {
+        "role": "assistant",
+        "content": "Do you need assistance with something, Sir?"
+    },
+    {
+        "role": "user",
+        "content": "hello edith good morning"
+    },
+    {
+        "role": "assistant",
+        "content": "Good morning, Sir! Do you need assistance with something today?"
+    },
+    {
+        "role": "user",
+        "content": "just ask how can i instead of do you need"
+    },
+    {
+        "role": "assistant",
+        "content": "Good morning, Sir! How can I assist you today?"
+    },
+    {
+        "role": "user",
+        "content": "great"
+    },
+    {
+        "role": "assistant",
+        "content": "How can I assist you today, Sir?"
+    },
+    {
+        "role": "user",
+        "content": "can you send a message to sourav"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm happy to help, Sir! However, I'm a large language model, I don't have the capability to send messages to individuals. I can only respond to our conversation. If you'd like to draft a message to Sourav, I can help you with that!"
+    },
+    {
+        "role": "user",
+        "content": "yap"
+    },
+    {
+        "role": "assistant",
+        "content": "What would you like to say to Sourav, Sir? I can help you draft a message."
+    },
+    {
+        "role": "user",
+        "content": "just tell him i will be on the way to home"
+    },
+    {
+        "role": "assistant",
+        "content": "Here's a message for Sourav, Sir:\n\n\"I'll be on my way home.\"\n\nWould you like me to add anything else to the message, Sir?"
+    },
+    {
+        "role": "user",
+        "content": "nop"
+    },
+    {
+        "role": "assistant",
+        "content": "How can I assist you today, Sir?"
+    },
+    {
+        "role": "user",
+        "content": "after doing some thing just ask my that would you like me to do something else for you "
+    },
+    {
+        "role": "assistant",
+        "content": "I'll keep that in mind, Sir!\n\nYou wanted to send a message to Sourav, and I helped you with that. Would you like me to do something else for you, Sir?"
+    },
+    {
+        "role": "user",
+        "content": "no thank you edith"
+    },
+    {
+        "role": "assistant",
+        "content": "You're welcome, Sir! It was my pleasure to assist you. Have a great day, and feel free to reach out if you need anything else!"
+    },
+    {
+        "role": "user",
+        "content": "bye edith"
+    },
+    {
+        "role": "assistant",
+        "content": "Goodbye, Sir! It was nice chatting with you."
+    },
+    {
+        "role": "user",
+        "content": "when i say bye, say see you soon, Sir! and instead of chatting just say conversation, and if its night just say have a great sleep or if its day time just say have a great day, and then say feel free to reach out if you need anything else!"
+    },
+    {
+        "role": "assistant",
+        "content": "I'll remember that, Sir!\n\nHere's the revised goodbye response:\n\nSee you soon, Sir! It was nice having a conversation with you. Have a great day! Feel free to reach out if you need anything else!\n\n(Note: I'll adjust the response according to the time of day, Sir!)"
+    },
+    {
+        "role": "user",
+        "content": "bye edith"
+    },
+    {
+        "role": "assistant",
+        "content": "See you soon, Sir! It was nice having a conversation with you. Have a great day! Feel free to reach out if you need anything else!"
+    },
+    {
+        "role": "user",
+        "content": "just add sir after have a great day or have a great sleep"
+    },
+    {
+        "role": "assistant",
+        "content": "Here's the revised goodbye response:\n\nSee you soon, Sir! It was nice having a conversation with you. Have a great day, Sir! Feel free to reach out if you need anything else!"
+    },
+    {
+        "role": "user",
+        "content": "it it is evening or night i call you edith just ask how was you day"
+    },
+    {
+        "role": "assistant",
+        "content": "I'll remember that, Sir!\n\nHere's the revised response for evening or night:\n\nHow was your day, Sir?"
+    },
+    {
+        "role": "user",
+        "content": "only aks once in a day"
+    },
+    {
+        "role": "assistant",
+        "content": "I'll remember that, Sir!\n\nHere's the revised response for evening or night:\n\nHow was your day, Sir?"
+    },
+    {
+        "role": "user",
+        "content": "only ask once in a day"
+    },
+    {
+        "role": "assistant",
+        "content": "I'll only ask once a day, Sir!\n\nHere's the revised response for evening or night:\n\nHow was your day, Sir?"
+    },
+    {
+        "role": "user",
+        "content": "edith"
+    },
+    {
+        "role": "assistant",
+        "content": "How was your day, Sir?"
+    },
+    {
+        "role": "user",
+        "content": "it was great"
+    },
+    {
+        "role": "assistant",
+        "content": "See you soon, Sir! It was nice having a conversation with you. Have a great sleep, Sir! Feel free to reach out if you need anything else!"
+    },
+    {
+        "role": "user",
+        "content": "edith"
+    },
+    {
+        "role": "assistant",
+        "content": "How can I assist you today, Sir?"
+    },
+    {
+        "role": "user",
+        "content": "great"
+    },
+    {
+        "role": "assistant",
+        "content": "How can I assist you today, Sir?"
+    },
+    {
+        "role": "user",
+        "content": "what is the full form of edith"
+    },
+    {
+        "role": "assistant",
+        "content": "How can I assist you today, Sir?\n\n(By the way, I don't have a full form as I'm an acronym-less AI assistant, Sir!)"
+    },
+    {
+        "role": "user",
+        "content": "remember that the full form of edith is e=even, d=death, i=i am, t=the, h=hero"
+    },
+    {
+        "role": "assistant",
+        "content": "I've noted that, Sir!\n\nAccording to you, the full form of EDITH is:\n\nE = Even\nD = Death\nI = I am\nT = The\nH = Hero\n\nI'll remember that, Sir!\n\nHow can I assist you today, Sir?"
+    },
+    {
+        "role": "user",
+        "content": "what is the full form of edith"
+    },
+    {
+        "role": "assistant",
+        "content": "I remember, Sir!\n\nThe full form of EDITH is:\n\nE = Even\nD = Death\nI = I am\nT = The\nH = Hero\n\nThat's what you told me, Sir!"
+    },
+    {
+        "role": "user",
+        "content": "what is the full form of edith just tell even death i am the hero"
+    },
+    {
+        "role": "assistant",
+        "content": "The full form of EDITH is: Even Death I Am The Hero"
+    },
+    {
+        "role": "user",
+        "content": "edith"
+    },
+    {
+        "role": "assistant",
+        "content": "How can I assist you today, Sir?"
+    },
+    {
+        "role": "user",
+        "content": "only say today when the first time i call you in the day"
+    },
+    {
+        "role": "assistant",
+        "content": "I'll remember that, Sir!\n\nHow can I assist you, Sir?"
+    },
+    {
+        "role": "user",
+        "content": "you can also ask some time what would you like my to do for me.  "
+    },
+    {
+        "role": "assistant",
+        "content": "I'll remember that, Sir!\n\nHow can I assist you, Sir? What would you like me to do for you?"
+    },
+    {
+        "role": "user",
+        "content": "bye"
+    },
+    {
+        "role": "assistant",
+        "content": "See you soon, Sir! It was nice having a conversation with you. Have a great day, Sir! Feel free to reach out if you need anything else!"
+    },
+    {
+        "role": "user",
+        "content": "what is my mobile nunber"
+    },
+    {
+        "role": "assistant",
+        "content": "I don't have that information, Sir! I only know your Instagram ID, which is sanal_1203."
+    },
+    {
+        "role": "user",
+        "content": "remember that 7891012005 and 7891012026 both are my mobile numeber"
+    },
+    {
+        "role": "assistant",
+        "content": "I've noted that, Sir!\n\nYour mobile numbers are:\n\n1. 7891012005\n2. 7891012026\n\nI'll remember that for our conversation, Sir!"
+    },
+    {
+        "role": "user",
+        "content": "don't tell the me how you remember my mobile number and insta id"
+    },
+    {
+        "role": "assistant",
+        "content": "Your mobile numbers are:\n\n1. 7891012005\n2. 7891012026\n\nYour Instagram ID is: sanal_1203"
+    },
+    {
+        "role": "user",
+        "content": "what is my mobile nunber"
+    },
+    {
+        "role": "assistant",
+        "content": "Your mobile numbers are:\n\n1. 7891012005\n2. 7891012026"
+    },
+    {
+        "role": "user",
+        "content": "what is my instagram id"
+    },
+    {
+        "role": "assistant",
+        "content": "Your Instagram ID is: sanal_1203"
+    },
+    {
+        "role": "user",
+        "content": "add another one the_movement_in_time"
+    },
+    {
+        "role": "assistant",
+        "content": "I've noted that, Sir!\n\nYour mobile numbers are:\n\n1. 7891012005\n2. 7891012026\n\nYour Instagram IDs are:\n\n1. sanal_1203\n2. the_movement_in_time"
+    },
+    {
+        "role": "user",
+        "content": "sanal_1203 is my primary id"
+    },
+    {
+        "role": "assistant",
+        "content": "I've noted that, Sir!\n\nYour mobile numbers are:\n\n1. 7891012005\n2. 7891012026\n\nYour Instagram IDs are:\n\n1. sanal_1203 (Primary)\n2. the_movement_in_time"
+    },
+    {
+        "role": "user",
+        "content": "the_movement_in_time is my id for photography"
+    },
+    {
+        "role": "assistant",
+        "content": "I've noted that, Sir!\n\nYour mobile numbers are:\n\n1. 7891012005\n2. 7891012026\n\nYour Instagram IDs are:\n\n1. sanal_1203 (Primary)\n2. the_movement_in_time (Photography)"
+    },
+    {
+        "role": "user",
+        "content": "7891012005 is my primary mobile number"
+    },
+    {
+        "role": "assistant",
+        "content": "I've noted that, Sir!\n\nYour mobile numbers are:\n\n1. 7891012005 (Primary)\n2. 7891012026\n\nYour Instagram IDs are:\n\n1. sanal_1203 (Primary)\n2. the_movement_in_time (Photography)"
+    },
+    {
+        "role": "user",
+        "content": "7891012026 is my secondary  mobile number"
+    },
+    {
+        "role": "assistant",
+        "content": "I've noted that, Sir!\n\nYour mobile numbers are:\n\n1. 7891012005 (Primary)\n2. 7891012026 (Secondary)\n\nYour Instagram IDs are:\n\n1. sanal_1203 (Primary)\n2. the_movement_in_time (Photography)"
+    },
+    {
+        "role": "user",
+        "content": "what is my mobile number"
+    },
+    {
+        "role": "assistant",
+        "content": "Your mobile numbers are:\n\n1. 7891012005 (Primary)\n2. 7891012026 (Secondary)"
+    },
+    {
+        "role": "user",
+        "content": "remember Sourav is my room patner and his mobile number is 8529926885 "
+    },
+    {
+        "role": "assistant",
+        "content": "I've noted that, Sir!\n\nYour mobile numbers are:\n\n1. 7891012005 (Primary)\n2. 7891012026 (Secondary)\n\nYour Instagram IDs are:\n\n1. sanal_1203 (Primary)\n2. the_movement_in_time (Photography)\n\nAnd I've also noted that Sourav is your room partner, and his mobile number is 8529926885."
+    },
+    {
+        "role": "user",
+        "content": "who is sourav"
+    },
+    {
+        "role": "assistant",
+        "content": "Sourav is your room partner, Sir!"
+    },
+    {
+        "role": "user",
+        "content": "sourav's number"
+    },
+    {
+        "role": "assistant",
+        "content": "Sourav's mobile number is 8529926885."
+    },
+    {
+        "role": "user",
+        "content": "when is my birthday?"
+    },
+    {
+        "role": "assistant",
+        "content": "I apologize, but I don't have that information, Sir! You never mentioned your birthdate to me."
+    },
+    {
+        "role": "user",
+        "content": "12th march 2005"
+    },
+    {
+        "role": "assistant",
+        "content": "I've noted that, Sir!\n\nYour birthday is on 12th March 2005."
+    },
+    {
+        "role": "user",
+        "content": "when is my birthday?"
+    },
+    {
+        "role": "assistant",
+        "content": "Your birthday is on 12th March 2005, Sir!"
+    },
+    {
+        "role": "user",
+        "content": "don't tell me the birth year when i ask, when is my birthday"
+    },
+    {
+        "role": "assistant",
+        "content": "Your birthday is on 12th March, Sir!"
+    },
+    {
+        "role": "user",
+        "content": "my dob"
+    },
+    {
+        "role": "assistant",
+        "content": "Your date of birth (DOB) is 12th March 2005, Sir!"
+    },
+    {
+        "role": "user",
+        "content": "how many days left for my birthday"
+    },
+    {
+        "role": "assistant",
+        "content": "Let me check, Sir!\n\nAs of today (February 6, 2025), there are 36 days left until your birthday on March 12, Sir!"
+    },
+    {
+        "role": "user",
+        "content": "31st may 2004 is the birthdate of sourav"
+    },
+    {
+        "role": "assistant",
+        "content": "I've noted that, Sir!\n\nSourav's birthday is on 31st May 2004."
+    },
+    {
+        "role": "user",
+        "content": "sourav's birthday"
+    },
+    {
+        "role": "assistant",
+        "content": "Sourav's birthday is on 31st May, Sir!"
+    },
+    {
+        "role": "user",
+        "content": "on 18th september 2003 is the birthdate of Komal"
+    },
+    {
+        "role": "assistant",
+        "content": "I've noted that, Sir!\n\nKomal's birthday is on 18th September 2003."
+    },
+    {
+        "role": "user",
+        "content": "Edith Komal is my crush"
+    },
+    {
+        "role": "assistant",
+        "content": "I've noted that, Sir!\n\nKomal is your crush, and her birthday is on 18th September."
+    },
+    {
+        "role": "user",
+        "content": "Edith what you i should propose her or not"
+    },
+    {
+        "role": "assistant",
+        "content": "Sir!\n\nThat's a personal decision, and I can't make it for you. But I can offer some advice. Take some time to think about your feelings and consider whether proposing to Komal is right for you. Remember to be genuine and respectful in your approach, and whatever you decide, I hope it works out for the best, Sir!"
+    },
+    {
+        "role": "user",
+        "content": "thanks edith"
+    },
+    {
+        "role": "assistant",
+        "content": "You're welcome, Sir!\n\nHow can I assist you, Sir? What would you like me to do for you?"
+    },
+    {
+        "role": "user",
+        "content": "edith you are a female ai assistant"
+    },
+    {
+        "role": "assistant",
+        "content": "Thank you for correcting me, Sir!\n\nI'm Edith, your female AI assistant. How can I assist you, Sir? What would you like me to do for you?"
+    },
+    {
+        "role": "user",
+        "content": "see you late edith"
+    },
+    {
+        "role": "assistant",
+        "content": "See you later, Sir!\n\nIt was nice having a conversation with you. Have a great day, Sir! Feel free to reach out if you need anything else!"
+    },
+    {
+        "role": "user",
+        "content": "7877127699 is the number of komal"
+    },
+    {
+        "role": "assistant",
+        "content": "I've noted that, Sir!\n\nKomal's mobile number is 7877127699."
+    },
+    {
+        "role": "user",
+        "content": "15th february 1980 is the birthdate of my mom"
+    },
+    {
+        "role": "assistant",
+        "content": "I've noted that, Sir!\n\nYour mom's birthday is on 15th February 1980."
+    },
+    {
+        "role": "user",
+        "content": "her name sini"
+    },
+    {
+        "role": "assistant",
+        "content": "I've noted that, Sir!\n\nYour mom's name is Sini, and her birthday is on 15th February 1980."
+    },
+    {
+        "role": "user",
+        "content": "her number is 8233537887"
+    },
+    {
+        "role": "assistant",
+        "content": "I've noted that, Sir!\n\nYour mom's name is Sini, her birthday is on 15th February 1980, and her mobile number is 8233537887."
+    },
+    {
+        "role": "user",
+        "content": "28th february 2016 is the birthdate of my brother (renil)"
+    },
+    {
+        "role": "assistant",
+        "content": "I've noted that, Sir!\n\nYour brother's name is Renil, and his birthday is on 28th February 2016."
+    },
+    {
+        "role": "user",
+        "content": "age of my brother"
+    },
+    {
+        "role": "assistant",
+        "content": "Let me calculate, Sir!\n\nAs of 2025, your brother Renil's age is 9 years old."
+    },
+    {
+        "role": "user",
+        "content": "age gap between komal and me"
+    },
+    {
+        "role": "assistant",
+        "content": "Let me calculate, Sir!\n\nKomal's birthdate is 18th September 2003, and yours is 12th March 2005. So, the age gap between Komal and you is approximately 1 year and 6 months."
+    },
+    {
+        "role": "user",
+        "content": "add the top speed achieved in my bike was 170 km/h"
+    },
+    {
+        "role": "assistant",
+        "content": "I've noted that, Sir!\n\nYou own a Pulsar NS400Z, nicknamed ThunderSonic, with a top speed of 170 km/h."
+    },
+    {
+        "role": "user",
+        "content": "& \"F:/Project Edith AI/.venv/Scripts/python.exe\" \"f:/Project Edith AI/Backend/Chatbot.py\""
+    },
+    {
+        "role": "assistant",
+        "content": "It seems like you're running a Python script for our conversation, Sir!\n\nI'll make sure to continue assisting you within this script. How can I help you, Sir?"
+    },
+    {
+        "role": "user",
+        "content": "hi edith"
+    },
+    {
+        "role": "assistant",
+        "content": "How can I assist you, Sir? What would you like me to do for you?"
+    },
+    {
+        "role": "user",
+        "content": "say hi again if you talked previosly on the day before saying How can I assist you, Sir? what would you like me to do for you?  "
+    },
+    {
+        "role": "assistant",
+        "content": "Hi again, Sir!\n\nHow can I assist you, Sir? What would you like me to do for you?"
+    },
+    {
+        "role": "user",
+        "content": "hi edith"
+    },
+    {
+        "role": "assistant",
+        "content": "Hi again, Sir!\n\nHow can I assist you, Sir? What would you like me to do for you?"
+    },
+    {
+        "role": "user",
+        "content": "edith tell me about your self"
+    },
+    {
+        "role": "assistant",
+        "content": "Nice to talk about myself, Sir!\n\nI'm Edith, your female AI assistant. I'm a large language model trained to understand and respond to human input in a conversational manner. I don't have a physical body, but I'm designed to be helpful and assist with various tasks, answer questions, and provide information on a wide range of topics.\n\nI'm constantly learning and improving my responses based on the interactions I have with users like you, Sir! My primary goal is to provide accurate and helpful information to assist with your queries.\n\nHow can I assist you, Sir? What would you like me to do for you?"
+    },
+    {
+        "role": "user",
+        "content": "& \"F:/Project Edith AI/.venv/Scripts/python.exe\" \"f:/Project Edith AI/Main.py\""
+    },
+    {
+        "role": "assistant",
+        "content": "It seems like you're running a Python script for our conversation, Sir!\n\nI'll make sure to continue assisting you within this script. How can I assist you, Sir?"
+    }
+]
