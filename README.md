@@ -28,38 +28,38 @@ graph TD
     classDef external fill:#f5f5f5,stroke:#9e9e9e,stroke-width:1px;
 
     %% Nodes
-    User([\👤 User Input (Voice/Text)\])
+    User(["👤 User Input (Voice/Text)"])
 
     subgraph Orchestrator [Main Orchestration Loop]
         direction TB
-        L[🎧 Listener<br/><i>(The Ears)</i>]:::listener
-        S[🧠 Strategist<br/><i>(The Brain)</i>]:::strategist
-        E[⚙️ Executor<br/><i>(The Hands)</i>]:::executor
-        O[🧐 Overseer<br/><i>(Quality Control)</i>]:::overseer
+        L["🎧 Listener<br/><i>(The Ears)</i>"]:::listener
+        S["🧠 Strategist<br/><i>(The Brain)</i>"]:::strategist
+        E["⚙️ Executor<br/><i>(The Hands)</i>"]:::executor
+        O["🧐 Overseer<br/><i>(Quality Control)</i>"]:::overseer
     end
 
-    Mem[(Context Memory)]:::memory
+    Mem[("Context Memory")]:::memory
     
     subgraph Actions [External Actions]
-        Web(Web Search):::external
-        Sys(System Control):::external
-        Gen(Media Gen):::external
+        Web("Web Search"):::external
+        Sys("System Control"):::external
+        Gen("Media Gen"):::external
     end
 
-    Response([\🔊 Output (Speech/GUI)\])
+    Response(["🔊 Output (Speech/GUI)"])
 
     %% Connections
-    User -->|Transcribed Query| L
-    L -->|Passes Input| S
-    L -.->|Logs Query| Mem
-    Mem -.->|Provides Context| S
+    User -->|"Transcribed Query"| L
+    L -->|"Passes Input"| S
+    L -.->|"Logs Query"| Mem
+    Mem -.->|"Provides Context"| S
     
-    S -->|Generates Execution Plan| E
-    E -->|Performs Actions| Actions
-    E -->|Returns Results| O
+    S -->|"Generates Execution Plan"| E
+    E -->|"Performs Actions"| Actions
+    E -->|"Returns Results"| O
     
-    O -->|Validates Success| Response
-    O -.->|Detects Error & <br> Self-Corrects| S
+    O -->|"Validates Success"| Response
+    O -.->|"Detects Error & <br> Self-Corrects"| S
 ```
 
 ### 🧠 The Agents
